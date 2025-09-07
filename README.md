@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Karim Ullah Emon</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate programming learner from Bangladesh</h3>
 
 - 📫 How to reach me **mdkarimullahemon@gmail.com**
 
